@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "Linux",
+      "includePath": ["/usr/include/libevdev-1.0"],
+      "defines": [],
+      "intelliSenseMode": "linux-clang-x64"
+    }
+  ],
+  "version": 4
+}
